@@ -11,6 +11,9 @@
 ### 3.2 PROCEDIMIENTO
 ## 4.RESPUESTAS A INTERROGANTES Y CÁLCULO DEL ERROR
 ### 4.1 CIRCUITO
+
+![8-98 (2)](https://user-images.githubusercontent.com/84431598/127760891-047b2b0b-e266-4094-a6eb-2addc0818ce2.png)
+
 ### 4.2 CÁLCULOS
 
 ![calculo 1 (2)](https://user-images.githubusercontent.com/84431598/127760211-e449017c-befb-4e75-a4dc-4ee46e847891.png)
