@@ -10,8 +10,30 @@
 
 ### 3.2 PROCEDIMIENTO
 #### 3.2.1 Arme el circuito que se muestra en la figura 1.
-#### 3.2.2  Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 1.1.
-#### 3.2.3  Calcule las potencias consumidas por RL, para cada valor dado y anote los resultados en la tabla 1.1.
+
+![circuito (2)](https://user-images.githubusercontent.com/84431598/127786678-2e0fd96b-de82-4163-9b54-16833552ec64.png)
+
+#### 3.2.2 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 1.1.
+
+![calculo 1 1 (2)](https://user-images.githubusercontent.com/84431598/127786703-0d5877bd-cffc-4d96-97b5-9c908e9619a9.png)
+
+![8-98 (2)](https://user-images.githubusercontent.com/84431598/127786708-d0d1c9f6-c8eb-4680-8d11-37efc104015b.png)
+
+![680 (2)](https://user-images.githubusercontent.com/84431598/127786712-f4acb636-59da-4c73-9396-876595a223dd.png)
+
+![7 43 (2)](https://user-images.githubusercontent.com/84431598/127786800-b59e9737-05cd-4ec2-85e2-62a4facae844.png)
+
+![6 82 (2)](https://user-images.githubusercontent.com/84431598/127786830-9cee13c1-d232-4e43-952e-2f2db05470d1.png)
+
+![5 56 (2)](https://user-images.githubusercontent.com/84431598/127786876-46eecb81-95c7-47b9-afe6-3e8e5d25405c.png)
+
+![4 41 (2)](https://user-images.githubusercontent.com/84431598/127786939-8e196934-aaa7-4f50-aaeb-f3763449e5a6.png)
+
+![2 94 (2)](https://user-images.githubusercontent.com/84431598/127786977-7a2b7dae-9073-4613-9d28-1ff8fd667f25.png)
+
+![2 54 (2)](https://user-images.githubusercontent.com/84431598/127787000-83f315a8-1943-4417-9421-32343e492fba.png)
+
+#### 3.2.3 Calcule las potencias consumidas por RL, para cada valor dado y anote los resultados en la tabla 1.1.
 ## 4.RESPUESTAS A INTERROGANTES Y CÁLCULO DEL ERROR
 ### 4.1 CIRCUITO
 
