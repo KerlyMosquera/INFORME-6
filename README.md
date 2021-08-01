@@ -41,17 +41,19 @@
 
 *Figura 7: Medición de voltaje y corriente en el resistor RL=1500Ω*
 
-![4 41 (2)](https://user-images.githubusercontent.com/84431598/127786939-8e196934-aaa7-4f50-aaeb-f3763449e5a6.png)
+![5 (2)](https://user-images.githubusercontent.com/84431598/127787634-33eefb99-e11f-4f24-b417-e54fa288a06c.png)
 
 *Figura 8: Medición de voltaje y corriente en el resistor RL=1800Ω*
 
-![2 94 (2)](https://user-images.githubusercontent.com/84431598/127786977-7a2b7dae-9073-4613-9d28-1ff8fd667f25.png)
+![4 41 (2)](https://user-images.githubusercontent.com/84431598/127787603-5ff7335a-fbd4-41f6-8308-9e6149eaf6df.png)
 
-*Figura 9: Medición de voltaje y corriente en el resistor RL=2200Ω*
+* Figura 9: Medición de voltaje y corriente en el resistor RL = 2200Ω *
 
-![2 54 (2)](https://user-images.githubusercontent.com/84431598/127787000-83f315a8-1943-4417-9421-32343e492fba.png)
+![2 94 (2)](https://user-images.githubusercontent.com/84431598/127787579-dcef2a13-dcf4-4679-b491-eab78fcb9704.png)
 
 *Figura 10: Medición de voltaje y corriente en el resistor RL=3900Ω*
+
+![2 54 (2)](https://user-images.githubusercontent.com/84431598/127787558-ff7db4b3-9104-4139-961f-0e483a7df9e8.png)
 
 *Figura 11: Medición de voltaje y corriente en el resistor RL=4700Ω*
 
