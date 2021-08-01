@@ -13,25 +13,47 @@
 
 ![circuito (2)](https://user-images.githubusercontent.com/84431598/127786678-2e0fd96b-de82-4163-9b54-16833552ec64.png)
 
+*Figura 1. Circuito  para comprobar el Teorema de la MTP*
+
 #### 3.2.2 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 1.1.
 
 ![calculo 1 1 (2)](https://user-images.githubusercontent.com/84431598/127786703-0d5877bd-cffc-4d96-97b5-9c908e9619a9.png)
+
 *Figura 2: Medición de voltaje y corriente en el  resistor RL=220Ω*
+
 ![8-98 (2)](https://user-images.githubusercontent.com/84431598/127786708-d0d1c9f6-c8eb-4680-8d11-37efc104015b.png)
 
-![680 (2)](https://user-images.githubusercontent.com/84431598/127786712-f4acb636-59da-4c73-9396-876595a223dd.png)
+*Figura 3: Medición de voltaje y corriente en el resistor RL=470Ω*
+
+![680 (2)](https://user-images.githubusercontent.com/84431598/127786712-f4acb636-59da-4c73-9396-876595a223dd.png
+
+*Figura 4: Medición de voltaje y corriente en el resistor RL=680Ω*
 
 ![7 43 (2)](https://user-images.githubusercontent.com/84431598/127786800-b59e9737-05cd-4ec2-85e2-62a4facae844.png)
 
+*Figura 5: Medición de voltaje y corriente en el resistor RL= 820Ω*
+
 ![6 82 (2)](https://user-images.githubusercontent.com/84431598/127786830-9cee13c1-d232-4e43-952e-2f2db05470d1.png)
+
+*Figura 6: Medición de voltaje y corriente en el resistor RL=1000Ω*
 
 ![5 56 (2)](https://user-images.githubusercontent.com/84431598/127786876-46eecb81-95c7-47b9-afe6-3e8e5d25405c.png)
 
+*Figura 7: Medición de voltaje y corriente en el resistor RL=1500Ω*
+
 ![4 41 (2)](https://user-images.githubusercontent.com/84431598/127786939-8e196934-aaa7-4f50-aaeb-f3763449e5a6.png)
+
+*Figura 8: Medición de voltaje y corriente en el resistor RL=1800Ω*
 
 ![2 94 (2)](https://user-images.githubusercontent.com/84431598/127786977-7a2b7dae-9073-4613-9d28-1ff8fd667f25.png)
 
+*Figura 9: Medición de voltaje y corriente en el resistor RL=2200Ω*
+
 ![2 54 (2)](https://user-images.githubusercontent.com/84431598/127787000-83f315a8-1943-4417-9421-32343e492fba.png)
+
+*Figura 10: Medición de voltaje y corriente en el resistor RL=3900Ω*
+
+*Figura 11: Medición de voltaje y corriente en el resistor RL=4700Ω*
 
 #### 3.2.3 Calcule las potencias consumidas por RL, para cada valor dado y anote los resultados en la tabla 1.1.
 ## 4.RESPUESTAS A INTERROGANTES Y CÁLCULO DEL ERROR
