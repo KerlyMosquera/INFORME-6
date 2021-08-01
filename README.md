@@ -9,6 +9,9 @@
 ![claro (2)](https://user-images.githubusercontent.com/84431598/127760803-906a398d-636e-45a6-ad85-36b5a3c23ff3.png)
 
 ### 3.2 PROCEDIMIENTO
+#### 3.2.1 Arme el circuito que se muestra en la figura 1.
+#### 3.2.2  Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 1.1.
+#### 3.2.3  Calcule las potencias consumidas por RL, para cada valor dado y anote los resultados en la tabla 1.1.
 ## 4.RESPUESTAS A INTERROGANTES Y CÁLCULO DEL ERROR
 ### 4.1 CIRCUITO
 
