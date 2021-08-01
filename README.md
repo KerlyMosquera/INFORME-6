@@ -12,7 +12,7 @@
 ## 4.RESPUESTAS A INTERROGANTES Y CÁLCULO DEL ERROR
 ### 4.1 CIRCUITO
 
-![8-98 (2)](https://user-images.githubusercontent.com/84431598/127760891-047b2b0b-e266-4094-a6eb-2addc0818ce2.png)
+![te (2)](https://user-images.githubusercontent.com/84431598/127760933-97bbab54-8d4b-43a0-b204-af152c4df0c9.png)
 
 ### 4.2 CÁLCULOS
 
