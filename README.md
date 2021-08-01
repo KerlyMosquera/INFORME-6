@@ -10,9 +10,9 @@
 
 ### 3.2 PROCEDIMIENTO
 #### 3.2.1 Arme el circuito que se muestra en la figura 1.
-<p align="center">
+  
 ![circuito (2)](https://user-images.githubusercontent.com/84431598/127786678-2e0fd96b-de82-4163-9b54-16833552ec64.png)
-</p>
+  
 *Figura 1. Circuito  para comprobar el Teorema de la MTP*
 
 #### 3.2.2 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 1.1.
