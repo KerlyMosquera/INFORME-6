@@ -16,7 +16,7 @@
 #### 3.2.2 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 1.1.
 
 ![calculo 1 1 (2)](https://user-images.githubusercontent.com/84431598/127786703-0d5877bd-cffc-4d96-97b5-9c908e9619a9.png)
-
+*Figura 2: Medición de voltaje y corriente en el  resistor RL=220Ω*
 ![8-98 (2)](https://user-images.githubusercontent.com/84431598/127786708-d0d1c9f6-c8eb-4680-8d11-37efc104015b.png)
 
 ![680 (2)](https://user-images.githubusercontent.com/84431598/127786712-f4acb636-59da-4c73-9396-876595a223dd.png)
