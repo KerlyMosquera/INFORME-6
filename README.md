@@ -25,7 +25,7 @@
 
 *Figura 3: Medición de voltaje y corriente en el resistor RL=470Ω*
 
-![680 (2)](https://user-images.githubusercontent.com/84431598/127786712-f4acb636-59da-4c73-9396-876595a223dd.png
+![7 98 (2)](https://user-images.githubusercontent.com/84431598/127787687-54893720-2fff-4cdc-802c-3ff75bb84698.png)
 
 *Figura 4: Medición de voltaje y corriente en el resistor RL=680Ω*
 
