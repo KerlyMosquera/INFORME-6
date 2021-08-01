@@ -9,6 +9,9 @@
 ## 4.RESPUESTAS A INTERROGANTES Y CÁLCULO DEL ERROR
 ### 4.1 CIRCUITO
 ### 4.2 CÁLCULOS
+
+![calculo 1 (2)](https://user-images.githubusercontent.com/84431598/127760049-9cdc3306-f382-480d-9f7e-3b7841015332.png)
+
 ### 4.3 CÁLCULO DEL ERROR
 ## 5.VIDEO
 ## 6.CONCLUSIONES
