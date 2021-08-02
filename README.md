@@ -71,6 +71,8 @@
 
 #### Tabla 1. Parámetros Eléctricos del circuito de la figura 1.
 
+
+
 ### 4.2 CÁLCULOS
 
 ![calculo 1 (2)](https://user-images.githubusercontent.com/84431598/127760211-e449017c-befb-4e75-a4dc-4ee46e847891.png)
