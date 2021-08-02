@@ -1,7 +1,10 @@
 # PRÁCTICA No.6 TEOREMA DE LA MÁXIMA TRANSFERENCIA DE POTENCIA
 ##  1. OBJETIVOS
-###  OBJETIVO GENERAL
-### OBJETIVOS ESPECÍFICOS
+####  OBJETIVO GENERAL
+- Aplicar el Teorema de la Máxima Transferencia de Potencia para comprobar las mediciones en la simulación y los cálculos obtenidos.
+#### OBJETIVOS ESPECÍFICOS
+- Observar la efectividad y facilidad de uso del Teorema de la Máxima Transferencia de Potencia, aplicado en el análisis de un circuito mixto.
+- Determinar el valor de corriente, voltaje y potencia en el circuito aplicando el Teorema de la Máxima Transferencia de Potencia.
 ## 2.MARCO TEÓRICO
 
 ![MTP (2)](https://user-images.githubusercontent.com/84431598/127793985-1db377dc-98d0-42fb-9894-d27e76d1711b.png)
