@@ -21,7 +21,7 @@
   
 *Figura 1. Circuito  para comprobar el Teorema de la MTP*
 
-#### 3.2.2 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 1.1.
+#### 3.2.2 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 1.
 
 ![calculo 1 1 (2)](https://user-images.githubusercontent.com/84431598/127786703-0d5877bd-cffc-4d96-97b5-9c908e9619a9.png)
 
@@ -53,7 +53,7 @@
 
 ![4 41 (2)](https://user-images.githubusercontent.com/84431598/127787603-5ff7335a-fbd4-41f6-8308-9e6149eaf6df.png)
 
-* Figura 9: Medición de voltaje y corriente en el resistor RL = 2200Ω *
+*Figura 9: Medición de voltaje y corriente en el resistor RL = 2200Ω *
 
 ![2 94 (2)](https://user-images.githubusercontent.com/84431598/127787579-dcef2a13-dcf4-4679-b491-eab78fcb9704.png)
 
@@ -63,11 +63,13 @@
 
 *Figura 11: Medición de voltaje y corriente en el resistor RL=4700Ω*
 
-#### 3.2.3 Calcule las potencias consumidas por RL, para cada valor dado y anote los resultados en la tabla 1.1.
+#### 3.2.3 Calcule las potencias consumidas por RL, para cada valor dado y anote los resultados en la tabla 1.
 ## 4.RESPUESTAS A INTERROGANTES Y CÁLCULO DEL ERROR
 ### 4.1 CIRCUITO
 
 ![te (2)](https://user-images.githubusercontent.com/84431598/127760933-97bbab54-8d4b-43a0-b204-af152c4df0c9.png)
+
+#### Tabla 1. Parámetros Eléctricos del circuito de la figura 1.
 
 ### 4.2 CÁLCULOS
 
