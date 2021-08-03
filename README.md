@@ -118,6 +118,9 @@
 
 ![image](https://user-images.githubusercontent.com/84425276/128048835-31c2629e-7290-472e-bfcc-993372b125a2.png)
 
+#### 4.1.1. ¿Cuál fue la potencia máxima en RL? 0.0478 Watts
+#### 4.1.2. ¿Para qué valor de RL se obtiene la MTP? 1500 Ω
+
 ### 4.2 CÁLCULOS
 
 ![calculo 1 (2)](https://user-images.githubusercontent.com/84431598/127760211-e449017c-befb-4e75-a4dc-4ee46e847891.png)
