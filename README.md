@@ -63,6 +63,40 @@
 
 *Figura 11: Medición de voltaje y corriente en el resistor RL=4700Ω*
 
+![WhatsApp Image 2021-08-02 at 7 11 30 PM](https://user-images.githubusercontent.com/84431598/127940328-b00124b1-2971-4615-87bd-213e20e46a9d.jpeg)
+
+* Figura 12: Medición de la potencia en el resistor RL = 220Ω *
+
+![WhatsApp Image 2021-08-02 at 7 12 16 PM](https://user-images.githubusercontent.com/84431598/127940572-5683683e-a037-4781-a6a2-ffa4e2bb185a.jpeg)
+
+* Figura 13: Medición de la potencia en el resistor RL = 470Ω *
+
+![WhatsApp Image 2021-08-02 at 7 12 46 PM](https://user-images.githubusercontent.com/84431598/127940637-6dd5f0ba-28ac-4464-be2e-bfd261aea23d.jpeg)
+
+*Figura 14: Medición de la potencia en el resistor RL=680Ω*
+
+![WhatsApp Image 2021-08-02 at 7 13 22 PM](https://user-images.githubusercontent.com/84431598/127940671-8d73da63-ad3d-42a6-b3e0-92013fa67c48.jpeg)
+
+* Figura 15: Medición de la potencia en el resistor RL = 820Ω *
+
+![WhatsApp Image 2021-08-02 at 7 13 56 PM](https://user-images.githubusercontent.com/84431598/127940707-b4913ac3-d74f-438f-b255-d908ff952345.jpeg)
+
+*Figura 16: Medición de la potencia en el resistor RL=1000Ω*
+
+![WhatsApp Image 2021-08-02 at 7 14 29 PM](https://user-images.githubusercontent.com/84431598/127940746-96e6bd37-b8dc-4d37-9c4e-0b3ef74af134.jpeg)
+
+* Figura 17: Medición de la potencia en el resistor RL = 1500Ω *
+
+![WhatsApp Image 2021-08-02 at 7 15 07 PM](https://user-images.githubusercontent.com/84431598/127940782-f6f319ae-9da2-4fd4-baac-e87623e9ec14.jpeg)
+
+* Figura 18: Medición de la potencia en el resistor RL = 1800Ω *
+
+*PONER ASI SE SUPENDAN*
+
+*Figura 19: Medición de la potencia en el resistor RL= 2200Ω*
+*Figura 20: Medición de la potencia  en el resistor RL= 3900Ω*
+*Figura 21: Medición de la potencia en el resistor RL=4700Ω*
+
 #### 3.2.3 Calcule las potencias consumidas por RL, para cada valor dado y anote los resultados en la tabla 1.
 
 
