@@ -7,7 +7,7 @@
 - Determinar el valor de corriente, voltaje y potencia en el circuito aplicando el Teorema de la Máxima Transferencia de Potencia.
 ## 2.MARCO TEÓRICO
 
-![MTP (2)](https://user-images.githubusercontent.com/84431598/127793985-1db377dc-98d0-42fb-9894-d27e76d1711b.png)
+![MAPA (2)](https://user-images.githubusercontent.com/84431598/127941228-afb08614-693d-42bd-b184-f85db4598aeb.png)
 
 ## 3.EXPLICACIÓN DEL PROCEDIMIENTO
 ### 3.1 MATERIALES Y EQUIPOS
