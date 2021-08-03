@@ -107,11 +107,11 @@
 
 
 #### 3.2.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia?
-Dado que el teorema de la Máxima transferencia de potencia se cumple cuando RL=RS , y en nuestro circito se presenta aproximaciones pero n o valor igual, no se cumpliria dicho teorema.
+
 #### 3.2.5. ¿Cuál fue la potencia máxima en RL?
-La potencia máxima en RL es de  0.046 mW
+
 #### 3.2.6. ¿Para qué valor de RL se obtiene la MTP?
-Se obtiene el MTP en el resistor RL =1000Ω
+
 ## 4.RESPUESTAS A INTERROGANTES Y CÁLCULO DEL ERROR
 ### 4.1 CIRCUITO
 
@@ -121,8 +121,12 @@ Se obtiene el MTP en el resistor RL =1000Ω
 
 ![image](https://user-images.githubusercontent.com/84425276/128048835-31c2629e-7290-472e-bfcc-993372b125a2.png)
 
-#### 4.1.1. ¿Cuál fue la potencia máxima en RL? 0.0478 Watts
-#### 4.1.2. ¿Para qué valor de RL se obtiene la MTP? 1500 Ω
+#### 4.1.1 ¿Se cumple el Teorema de la Máxima Transferencia de Potencia?
+- Si se cumple, cuando Rs = Rl
+#### 4.1.2. ¿Cuál fue la potencia máxima en RL? 
+- 0.0478 Watts
+#### 4.1.3. ¿Para qué valor de RL se obtiene la MTP? 
+- 1500 Ω
 
 ### 4.2 CÁLCULOS
 
