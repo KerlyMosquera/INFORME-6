@@ -127,6 +127,8 @@
 ### 4.3 CÁLCULO DEL ERROR
 ## 5.VIDEO
 ## 6.CONCLUSIONES
+- Se puede concluir que se transfiere potencia máxima a una carga desde una fuente cuando la resistencia de la carga es igual a la resistencia interna de la fuente.
+- 
 ## 7.BIBLIOGRAFÍA
 - Floyd, T. (2007). *Principios de circuitos eléctricos (8va ed),* México DF, México: Pearson Educación.
 - Roobins, A y Miller, W. (2007). *Análisis de circuitos teoría y práctica (4ta ed),* México DF, México: Cengage Learning.
