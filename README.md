@@ -116,7 +116,7 @@
 
 #### Tabla 1. Parámetros Eléctricos del circuito de la figura 1.
 
-
+![image](https://user-images.githubusercontent.com/84425276/128048835-31c2629e-7290-472e-bfcc-993372b125a2.png)
 
 ### 4.2 CÁLCULOS
 
@@ -131,6 +131,11 @@
 ![1 11 (2)](https://user-images.githubusercontent.com/84431598/127941453-a3e906d4-1a70-4ad9-81ba-aca25c6123d1.png)
 
 ### 4.3 CÁLCULO DEL ERROR
+
+![image](https://user-images.githubusercontent.com/84425276/128048942-157c55dd-c7a3-4b3a-928c-e0953e0cc795.png)
+
+![image](https://user-images.githubusercontent.com/84425276/128049001-368366ab-cb0b-4b42-be62-4f1295e30ffa.png)
+
 ## 5.VIDEO
 ## 6.CONCLUSIONES
 - Se puede concluir que se transfiere potencia máxima a una carga desde una fuente cuando la resistencia de la carga es igual a la resistencia interna de la fuente.
