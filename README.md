@@ -130,7 +130,7 @@ Se obtiene el MTP en el resistor RL =1000Ω
 
 ![calculo 2 (4)](https://user-images.githubusercontent.com/84431598/127760226-89dbde5f-7ed7-481f-8e2d-b5b60fe4d0b6.png)
 
-![nuevo1 (2)](https://user-images.githubusercontent.com/84431598/127939458-4238899b-9668-4fbc-856e-fdaff06f4423.png)
+![co (2)](https://user-images.githubusercontent.com/84431598/128053950-e241d109-900c-499e-b01b-7fcbc34caa18.png)
 
 ![nuevo2 (2)](https://user-images.githubusercontent.com/84431598/127939523-cc2e7fe6-c30b-4319-8012-d8372da21220.png)
 
