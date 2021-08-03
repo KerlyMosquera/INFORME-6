@@ -152,10 +152,9 @@ https://youtu.be/eeK3t_K8UZM
 
 ## 6.CONCLUSIONES
 - Se puede concluir que se transfiere potencia máxima a una carga desde una fuente cuando la resistencia de la carga es igual a la resistencia interna de la fuente.
+- Para la condición de transferencia de máxima potencia, el voltaje en la carga se reducirá a la mitad del voltaje de terminales máximo disponible.
 - Los valores medidos y los valores calculados coinciden con un mínimo error.
 - De los resultados obtenidos anteriormente se concluye que la práctica fue realizada correctamente.
-- Para la condición de transferencia de máxima potencia, el voltaje en la carga se reducirá a
-la mitad del voltaje de terminales máximo disponible.
 ## 7.BIBLIOGRAFÍA
 - Floyd, T. (2007). *Principios de circuitos eléctricos (8va ed),* México DF, México: Pearson Educación.
 - Roobins, A y Miller, W. (2007). *Análisis de circuitos teoría y práctica (4ta ed),* México DF, México: Cengage Learning.
