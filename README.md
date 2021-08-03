@@ -84,7 +84,9 @@
 
 ![calculo 2 (4)](https://user-images.githubusercontent.com/84431598/127760226-89dbde5f-7ed7-481f-8e2d-b5b60fe4d0b6.png)
 
-![1500 (3)](https://user-images.githubusercontent.com/84431598/127760248-bf5c1c0b-c564-4d38-a6b0-b299f0b2327e.png)
+![nuevo1 (2)](https://user-images.githubusercontent.com/84431598/127939458-4238899b-9668-4fbc-856e-fdaff06f4423.png)
+
+![nuevo2 (2)](https://user-images.githubusercontent.com/84431598/127939523-cc2e7fe6-c30b-4319-8012-d8372da21220.png)
 
 ![4700 (2)](https://user-images.githubusercontent.com/84431598/127760277-4135f967-464b-45ad-8b82-f8bd66d03ab5.png)
 
