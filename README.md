@@ -143,6 +143,9 @@ Se obtiene el MTP en el resistor RL =1000Ω
 ![image](https://user-images.githubusercontent.com/84425276/128049001-368366ab-cb0b-4b42-be62-4f1295e30ffa.png)
 
 ## 5.VIDEO
+
+https://youtu.be/eeK3t_K8UZM
+
 ## 6.CONCLUSIONES
 - Se puede concluir que se transfiere potencia máxima a una carga desde una fuente cuando la resistencia de la carga es igual a la resistencia interna de la fuente.
 - Los valores medidos y los valores calculados coinciden con un mínimo error.
