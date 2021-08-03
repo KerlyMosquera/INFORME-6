@@ -130,7 +130,7 @@
 
 ![1 11 (2)](https://user-images.githubusercontent.com/84431598/127941453-a3e906d4-1a70-4ad9-81ba-aca25c6123d1.png)
 
-### 4.3 CÁLCULO DEL ERROR
+### 4.3 CÁLCULO DEL ERROR DE LA POTENCIA
 
 ![image](https://user-images.githubusercontent.com/84425276/128048942-157c55dd-c7a3-4b3a-928c-e0953e0cc795.png)
 
