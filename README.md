@@ -122,7 +122,7 @@
 
 ![nuevo2 (2)](https://user-images.githubusercontent.com/84431598/127939523-cc2e7fe6-c30b-4319-8012-d8372da21220.png)
 
-![4700 (2)](https://user-images.githubusercontent.com/84431598/127760277-4135f967-464b-45ad-8b82-f8bd66d03ab5.png)
+![1 11 (2)](https://user-images.githubusercontent.com/84431598/127941453-a3e906d4-1a70-4ad9-81ba-aca25c6123d1.png)
 
 ### 4.3 CÁLCULO DEL ERROR
 ## 5.VIDEO
