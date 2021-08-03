@@ -107,7 +107,7 @@
 
 
 #### 3.2.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia?
-
+Dado que el teorema de la Máxima transferencia de potencia se cumple cuando RL=RS , y en nuestro circito se presenta aproximaciones pero n o valor igual, no se cumpliria dicho teorema.
 #### 3.2.5. ¿Cuál fue la potencia máxima en RL?
 La potencia máxima en RL es de  0.046 mW
 #### 3.2.6. ¿Para qué valor de RL se obtiene la MTP?
