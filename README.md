@@ -97,11 +97,11 @@
 
 ![Q (2)](https://user-images.githubusercontent.com/84431598/128048128-e00c0247-59ac-49f0-b606-60bc65d82e45.png)
 
-* Figura 20: Medición de la potencia en el resistor RL = 3900Ω *
+*Figura 20: Medición de la potencia en el resistor RL = 3900Ω*
 
 ![R (2)](https://user-images.githubusercontent.com/84431598/128048241-1895910d-860c-44e1-a67b-ece6f3e5fc4e.png)
 
-* Figura 21: Medición de la potencia en el resistor RL = 4700Ω *
+*Figura 21: Medición de la potencia en el resistor RL = 4700Ω*
 
 #### 3.2.3 Calcule las potencias consumidas por RL, para cada valor dado y anote los resultados en la tabla 1.
 
