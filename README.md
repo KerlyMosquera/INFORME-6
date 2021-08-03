@@ -64,6 +64,11 @@
 *Figura 11: Medición de voltaje y corriente en el resistor RL=4700Ω*
 
 #### 3.2.3 Calcule las potencias consumidas por RL, para cada valor dado y anote los resultados en la tabla 1.
+
+
+#### 3.2.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia?
+#### 3.2.5. ¿Cuál fue la potencia máxima en RL?
+#### 3.2.6. ¿Para qué valor de RL se obtiene la MTP?
 ## 4.RESPUESTAS A INTERROGANTES Y CÁLCULO DEL ERROR
 ### 4.1 CIRCUITO
 
