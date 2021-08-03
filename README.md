@@ -107,8 +107,11 @@
 
 
 #### 3.2.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia?
+
 #### 3.2.5. ¿Cuál fue la potencia máxima en RL?
+La potencia máxima en RL es de  0.046 mW
 #### 3.2.6. ¿Para qué valor de RL se obtiene la MTP?
+Se obtiene el MTP en el resistor RL =1000Ω
 ## 4.RESPUESTAS A INTERROGANTES Y CÁLCULO DEL ERROR
 ### 4.1 CIRCUITO
 
