@@ -122,7 +122,7 @@
 ![image](https://user-images.githubusercontent.com/84425276/128282809-0e1f8e91-895c-40d0-8a0f-1eb8b3f6f092.png)
 
 #### 4.1.1 ¿Se cumple el Teorema de la Máxima Transferencia de Potencia?
-- Si se cumple, cuando Rs = Rl
+- Si se cumple, cuando R1 = RL es cuando se produce la máxima transferencia depotencia. R1 es la resistencia equivalente del terminal de salida.
 #### 4.1.2. ¿Cuál fue la potencia máxima en RL? 
 - 0.0465 Watts
 #### 4.1.3. ¿Para qué valor de RL se obtiene la MTP? 
