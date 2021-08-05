@@ -119,14 +119,14 @@
 
 #### Tabla 1. Parámetros Eléctricos del circuito de la figura 1.
 
-![image](https://user-images.githubusercontent.com/84425276/128048835-31c2629e-7290-472e-bfcc-993372b125a2.png)
+![image](https://user-images.githubusercontent.com/84425276/128282809-0e1f8e91-895c-40d0-8a0f-1eb8b3f6f092.png)
 
 #### 4.1.1 ¿Se cumple el Teorema de la Máxima Transferencia de Potencia?
 - Si se cumple, cuando Rs = Rl
 #### 4.1.2. ¿Cuál fue la potencia máxima en RL? 
-- 0.0478 Watts
+- 0.0465 Watts
 #### 4.1.3. ¿Para qué valor de RL se obtiene la MTP? 
-- 1500 Ω
+- 1000 Ω
 
 ### 4.2 CÁLCULOS
 
@@ -144,7 +144,7 @@
 
 ![image](https://user-images.githubusercontent.com/84425276/128048942-157c55dd-c7a3-4b3a-928c-e0953e0cc795.png)
 
-![image](https://user-images.githubusercontent.com/84425276/128049001-368366ab-cb0b-4b42-be62-4f1295e30ffa.png)
+![image](https://user-images.githubusercontent.com/84425276/128282909-49789eb1-68cf-4aa0-a70e-d3528206a420.png)
 
 ## 5.VIDEO
 
